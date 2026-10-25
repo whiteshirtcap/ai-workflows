@@ -17,3 +17,5 @@ An open-source collection of structured prompt engineering frameworks, camera/me
     "resolution": "8K ultra-realistic"
   }
 }
+System: You are an expert bilingual transcriber. 
+Task: Generate a second-by-second timestamped transcript of the provided audio and adapt the spoken content into natural, conversational phrasing while preserving cultural context.
